@@ -1,0 +1,346 @@
+{
+    "items":[
+       {
+          "company_status":"active",
+          "kind":"searchresults#company",
+          "title":"SPINACH LIMITED",
+          "description":"04299121 - Incorporated on  4 October 2001",
+          "company_number":"04299121",
+          "date_of_creation":"2001-10-04",
+          "address_snippet":"Preston Park House, South Road, Brighton, East Sussex, United Kingdom, BN1 6SB",
+          "company_type":"ltd",
+          "matches":{
+             "snippet":[
+                
+             ],
+             "title":[
+                1,
+                7
+             ]
+          },
+          "address":{
+             "locality":"Brighton",
+             "country":"United Kingdom",
+             "postal_code":"BN1 6SB",
+             "premises":"Preston Park House",
+             "region":"East Sussex",
+             "address_line_1":"South Road"
+          },
+          "links":{
+             "self":"/company/04299121"
+          },
+          "snippet":"",
+          "description_identifier":[
+             "incorporated-on"
+          ]
+       },
+       {
+          "description":"12222632 - Incorporated on 23 September 2019",
+          "company_number":"12222632",
+          "date_of_creation":"2019-09-23",
+          "kind":"searchresults#company",
+          "company_status":"active",
+          "title":"SPINACH BRANDING LTD",
+          "address":{
+             "locality":"London",
+             "country":"England",
+             "premises":"Palladium House",
+             "postal_code":"W1F 7LD",
+             "address_line_1":"1-4 Argyll Street"
+          },
+          "matches":{
+             "title":[
+                1,
+                7
+             ],
+             "snippet":[
+                
+             ]
+          },
+          "description_identifier":[
+             "incorporated-on"
+          ],
+          "snippet":"",
+          "links":{
+             "self":"/company/12222632"
+          },
+          "company_type":"ltd",
+          "address_snippet":"Palladium House, 1-4 Argyll Street, London, England, W1F 7LD"
+       },
+       {
+          "title":"SPINACH CONSULTANCY LTD",
+          "company_status":"active",
+          "kind":"searchresults#company",
+          "date_of_creation":"2013-11-18",
+          "company_number":"08779044",
+          "description":"08779044 - Incorporated on 18 November 2013",
+          "address_snippet":"Arrowsmith Court, Station Approach, Broadstone, Dorset, United Kingdom, BH18 8AT",
+          "company_type":"ltd",
+          "links":{
+             "self":"/company/08779044"
+          },
+          "description_identifier":[
+             "incorporated-on"
+          ],
+          "snippet":"",
+          "matches":{
+             "title":[
+                1,
+                7
+             ],
+             "snippet":[
+                
+             ]
+          },
+          "address":{
+             "locality":"Broadstone",
+             "country":"United Kingdom",
+             "premises":"Arrowsmith Court",
+             "postal_code":"BH18 8AT",
+             "region":"Dorset",
+             "address_line_1":"Station Approach"
+          }
+       },
+       {
+          "date_of_creation":"2001-12-03",
+          "description":"04332569 - Incorporated on  3 December 2001 - Liquidation",
+          "company_number":"04332569",
+          "title":"SPINACH DESIGN LIMITED",
+          "kind":"searchresults#company",
+          "company_status":"liquidation",
+          "snippet":"",
+          "description_identifier":[
+             "incorporated-on",
+             "liquidation"
+          ],
+          "links":{
+             "self":"/company/04332569"
+          },
+          "address":{
+             "premises":"Pearl Assurance House",
+             "postal_code":"N12 8LY",
+             "address_line_1":"319 Ballards Lane",
+             "locality":"London"
+          },
+          "matches":{
+             "snippet":[
+                
+             ],
+             "title":[
+                1,
+                7
+             ]
+          },
+          "company_type":"ltd",
+          "address_snippet":"Pearl Assurance House, 319 Ballards Lane, London, N12 8LY"
+       },
+       {
+          "description":"11149252 - Incorporated on 15 January 2018",
+          "company_number":"11149252",
+          "date_of_creation":"2018-01-15",
+          "company_status":"active",
+          "kind":"searchresults#company",
+          "title":"SPINACHED LIMITED",
+          "address":{
+             "locality":"London",
+             "country":"England",
+             "address_line_1":"B Portway",
+             "premises":"112",
+             "postal_code":"E15 3QJ"
+          },
+          "matches":{
+             "title":[
+                1,
+                9
+             ],
+             "snippet":[
+                1,
+                7
+             ]
+          },
+          "links":{
+             "self":"/company/11149252"
+          },
+          "description_identifier":[
+             "incorporated-on"
+          ],
+          "snippet":"SPINACH RETREATS ",
+          "address_snippet":"112 B Portway, London, England, E15 3QJ",
+          "company_type":"ltd"
+       },
+       {
+          "title":"SPINACH HEALTH & WELLBEING LTD",
+          "company_status":"active",
+          "kind":"searchresults#company",
+          "date_of_creation":"2011-03-30",
+          "description":"07584079 - Incorporated on 30 March 2011",
+          "company_number":"07584079",
+          "address_snippet":"ANNA MCKAY, Flat 2, 175a Clapham Manor Street, London, SW4 6DB",
+          "company_type":"ltd",
+          "links":{
+             "self":"/company/07584079"
+          },
+          "snippet":"",
+          "description_identifier":[
+             "incorporated-on"
+          ],
+          "address":{
+             "postal_code":"SW4 6DB",
+             "premises":"Flat 2,",
+             "address_line_1":"175a Clapham Manor Street",
+             "care_of_name":"ANNA MCKAY",
+             "locality":"London"
+          },
+          "matches":{
+             "title":[
+                1,
+                7
+             ],
+             "snippet":[
+                
+             ]
+          }
+       },
+       {
+          "company_status":"dissolved",
+          "kind":"searchresults#company",
+          "title":"SPINACH IMAGE LTD",
+          "description":"11875001 - Dissolved on  6 October 2020",
+          "company_number":"11875001",
+          "date_of_creation":"2019-03-11",
+          "company_type":"ltd",
+          "address_snippet":"29  Dawson Avenue, Orpington, Kent, United Kingdom, BR5 3AY",
+          "date_of_cessation":"2020-10-06",
+          "matches":{
+             "snippet":[
+                
+             ],
+             "title":[
+                1,
+                7
+             ]
+          },
+          "address":{
+             "country":"United Kingdom",
+             "locality":"Orpington",
+             "postal_code":"BR5 3AY",
+             "premises":"29 ",
+             "region":"Kent",
+             "address_line_1":"Dawson Avenue"
+          },
+          "snippet":"",
+          "description_identifier":[
+             "dissolved-on"
+          ],
+          "links":{
+             "self":"/company/11875001"
+          }
+       },
+       {
+          "address_snippet":"161 Lordship Lane, East Dulwich, London, United Kingdom, SE22 8HX",
+          "company_type":"ltd",
+          "matches":{
+             "snippet":[
+                
+             ],
+             "title":[
+                1,
+                7
+             ]
+          },
+          "address":{
+             "address_line_1":"Lordship Lane",
+             "premises":"161",
+             "postal_code":"SE22 8HX",
+             "address_line_2":"East Dulwich",
+             "locality":"London",
+             "country":"United Kingdom"
+          },
+          "links":{
+             "self":"/company/09628611"
+          },
+          "snippet":"",
+          "description_identifier":[
+             "incorporated-on"
+          ],
+          "kind":"searchresults#company",
+          "company_status":"active",
+          "title":"SPINACH LONDON LIMITED",
+          "company_number":"09628611",
+          "description":"09628611 - Incorporated on  8 June 2015",
+          "date_of_creation":"2015-06-08"
+       },
+       {
+          "matches":{
+             "title":[
+                1,
+                7
+             ],
+             "snippet":[
+                
+             ]
+          },
+          "address":{
+             "locality":"Brighton",
+             "country":"United Kingdom",
+             "address_line_1":"South Road",
+             "region":"East Sussex",
+             "postal_code":"BN1 6SB",
+             "premises":"Preston Park House"
+          },
+          "links":{
+             "self":"/company/10572492"
+          },
+          "snippet":"",
+          "description_identifier":[
+             "incorporated-on"
+          ],
+          "address_snippet":"Preston Park House, South Road, Brighton, East Sussex, United Kingdom, BN1 6SB",
+          "company_type":"ltd",
+          "company_number":"10572492",
+          "description":"10572492 - Incorporated on 19 January 2017",
+          "date_of_creation":"2017-01-19",
+          "company_status":"active",
+          "kind":"searchresults#company",
+          "title":"SPINACH ON SEA LIMITED"
+       },
+       {
+          "title":"SPINACH TECH CONSULTANCY LIMITED",
+          "kind":"searchresults#company",
+          "company_status":"active",
+          "date_of_creation":"2021-06-30",
+          "description":"13486451 - Incorporated on 30 June 2021",
+          "company_number":"13486451",
+          "company_type":"ltd",
+          "address_snippet":"Witham House, Spyvee Street, Hull, England, HU8 7JR",
+          "description_identifier":[
+             "incorporated-on"
+          ],
+          "snippet":"",
+          "links":{
+             "self":"/company/13486451"
+          },
+          "matches":{
+             "snippet":[
+                
+             ],
+             "title":[
+                1,
+                7
+             ]
+          },
+          "address":{
+             "country":"England",
+             "locality":"Hull",
+             "address_line_1":"Spyvee Street",
+             "premises":"Witham House",
+             "postal_code":"HU8 7JR"
+          }
+       }
+    ],
+    "total_results":30,
+    "items_per_page":10,
+    "start_index":0,
+    "page_number":1,
+    "kind":"search#companies"
+ }
